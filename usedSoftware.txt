@@ -1,0 +1,9 @@
+libfreenect
+cflib
+opencv
+cvblob
+ros
+matlab
+amcctoolbox
+Irrlicht
+Qt
