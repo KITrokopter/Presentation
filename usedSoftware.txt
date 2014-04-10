@@ -6,4 +6,5 @@ ros
 matlab
 amcctoolbox
 Irrlicht
+SDL
 Qt
